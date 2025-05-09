@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(222, 181, 132);
+    
+}
+
+#first-section{
+    background: rgb(151, 151, 197);
+}
+
+.paragraph {
+    color: rgb(164, 18, 18);
+    font-size: 1.5rem;
+}
